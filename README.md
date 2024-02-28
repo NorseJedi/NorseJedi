@@ -1,8 +1,8 @@
-<p>
-<img width="45%" src="/../../../../ensnared/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
-<img width="45%" src="/../../../../ensnared/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
+<p align="center">
+<img width="40%" src="/../../../../ensnared/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
+<img width="40%" src="/../../../../ensnared/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">
 </p>
-<p>
+<p align="center">
 <img width="45%" src="/../../../../ensnared/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
 <img width="45%" src="/../../../../ensnared/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
 </p>
@@ -30,7 +30,7 @@
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/ssh/ssh-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/sqlite/sqlite-original.svg">
 </p>
-<p>
+<p align="center">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/debian/debian-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/archlinux/archlinux-original.svg">
