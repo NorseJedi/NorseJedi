@@ -16,15 +16,17 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </p>
 <p>
+<img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
+</p>
+<p>
 <img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg">
