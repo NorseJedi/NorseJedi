@@ -1,6 +1,7 @@
 <p>
       
-![](<img width="45%" src="/../../../../ensnared/github-stats/blob/master/generated/overview.svg" class="gh-dark-mode-only">)
+<img width="45%" src="/../../../../ensnared/github-stats/blob/master/generated/overview.svg" class="gh-dark-mode-only">
+
 ![](/../../../../ensnared/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 
 </p>
