@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img height="25" src="/../../../../ensnared/devicons/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+<img height="25" src="/../../../../ensnared/devicons/blob/master/icons/nodejs/nodejs-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/typescript/typescript-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/php/php-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/git/git-original.svg">
