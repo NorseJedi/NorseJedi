@@ -29,9 +29,9 @@
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/json/json-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/ssh/ssh-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+<img height="25" src="/../../../../ensnared/devicon/blob/master/icons/debian/debian-original.svg">
 </p>
 <p align="center">
-<img height="25" src="/../../../../ensnared/devicon/blob/master/icons/debian/debian-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/archlinux/archlinux-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
