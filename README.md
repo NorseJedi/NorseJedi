@@ -1,12 +1,10 @@
-<table border="0">
-<tr>
-<td>
+<p>
       
-![](/../../../../ensnared/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](<img width="45%" src="/../../../../ensnared/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only">)
 ![](/../../../../ensnared/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
 
-</td>
-<td>
+</p>
+
 
 ![](/../../../../ensnared/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![](/../../../../ensnared/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
@@ -14,3 +12,5 @@
 </td>
 </tr>
 </table>
+
+https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg
