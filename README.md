@@ -7,7 +7,7 @@
 <img width="45%" src="/../../../../ensnared/github-stats/blob/master/generated/languages.svg#gh-light-mode-only">
 </p>
 
-<p>
+<p align="center">
 <img height="25" src="/../../../../ensnared/devicons/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/typescript/typescript-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/php/php-original.svg">
