@@ -3,7 +3,7 @@
 branch_name=$(git branch | grep "*" | sed "s/\* //")
 
 if [[ $branch_name == "dev" ]]; then
-  git commit -am "commit" && git checkout main && git merge dev && git commit -am "commit" && git push && git checkout dev
+  git commit -am "commit" && git checkout main && git merge dev && git commit -am "commit" && git push && sleep 1 && git checkout dev
 else
   echo "Not in dev branch, aborting."
 fi
