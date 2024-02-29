@@ -14,6 +14,7 @@
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/git/git-original.svg">
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/github/github-original.svg">
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/npm/npm-original-wordmark.svg">
+<img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/pnpm/pnpm-original.svg">
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/javascript/javascript-original.svg">
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/nestjs/nestjs-original.svg">
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/angular/angular-original.svg">
@@ -39,6 +40,7 @@
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/postman/postman-original.svg">
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/prisma/prisma-original.svg">
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/rxjs/rxjs-original.svg">
+<img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/redux/redux-original.svg">
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/vscode/vscode-original.svg">
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/windows11/windows11-original.svg">
 <img height="25" src="https://raw.githubusercontent.com/ensnared/devicon/master/icons/angularmaterial/angularmaterial-original.svg">
