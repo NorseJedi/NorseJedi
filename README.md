@@ -13,11 +13,12 @@
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/php/php-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/git/git-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/github/github-original.svg">
+<img height="25" src="https://raw.githubusercontent.com/ensnared/ensnared/master/img/nx_logo.png">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/pnpm/pnpm-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/nestjs/nestjs-original.svg">
-<img height="25" src="/../../../../ensnared/devicon/blob/master/icons/angular/angular-original.svg">
+<img height="25" src="https://raw.githubusercontent.com/ensnared/ensnared/master/img/angular_new_logo_animated.gif">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/phpstorm/phpstorm-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/rider/rider-original.svg">
 <img height="25" src="/../../../../ensnared/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
