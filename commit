@@ -5,9 +5,7 @@ branch_name=$(git branch | grep "*" | sed "s/\* //")
 if [[ $branch_name == "dev" ]]; then
   git commit -aqm "commit"
   git checkout main
-  git merge dev -qm "merge" 
-  git commit -aqm "commit" 
-  git push -q
+  git merge dev -qm "merge" && sleep 2 && git commit -aqm "commit" && sleep 2 && git push -q
   git checkout dev
 else
   echo "Not in dev branch, aborting."
