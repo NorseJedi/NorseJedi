@@ -4,12 +4,12 @@ branch_name=$(git branch | grep "*" | sed "s/\* //")
 
 if [[ $branch_name == "dev" ]] && [[ -f .dosed ]]; then
   rm .dosed
-  sed -e 's/https:\/\/raw.githubusercontent.com\/ensnared\/devicon\//\/..\/..\/..\/..\/ensnared\/devicon\/blob\//' README.md > README.md.tmp && mv README.md.tmp README.md
+  sed -e 's/https:\/\/raw.githubusercontent.com\/NorseJedi\/devicon\//\/..\/..\/..\/..\/NorseJedi\/devicon\/blob\//' README.md > README.md.tmp && mv README.md.tmp README.md
   git commit -am "commit"
   git checkout main
   git merge dev -qm "merge"
   git push -q
-  git checkout dev && sed -e 's/\/..\/..\/..\/..\/ensnared\/devicon\/blob\//https:\/\/raw.githubusercontent.com\/ensnared\/devicon\//' README.md > README.md.tmp && mv README.md.tmp README.md
+  git checkout dev && sed -e 's/\/..\/..\/..\/..\/NorseJedi\/devicon\/blob\//https:\/\/raw.githubusercontent.com\/NorseJedi\/devicon\//' README.md > README.md.tmp && mv README.md.tmp README.md
   touch .dosed
 else
   echo "Not in dev branch, aborting."
