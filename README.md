@@ -1,10 +1,10 @@
 <p align="center">
-<img width="40%" src="https://raw.githubusercontent.com/NorseJedi/github-stats/blob/generated/overview.svg#gh-dark-mode-only">
-<img width="40%" src="https://raw.githubusercontent.com/NorseJedi/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
+<img width="40%" src="https://github.com/NorseJedi/github-stats/blob/generated/overview.svg#gh-dark-mode-only">
+<img width="40%" src="https://github.com/NorseJedi/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
 </p>
 <p align="center">
-<img width="45%" src="https://raw.githubusercontent.com/NorseJedi/github-stats/blob/generated/overview.svg#gh-light-mode-only">
-<img width="45%" src="https://raw.githubusercontent.com/NorseJedi/github-stats/blob/generated/languages.svg#gh-light-mode-only">
+<img width="45%" src="https://github.com/NorseJedi/github-stats/blob/generated/overview.svg#gh-light-mode-only">
+<img width="45%" src="https://github.com/NorseJedi/github-stats/blob/generated/languages.svg#gh-light-mode-only">
 </p>
 
 <p align="center">
